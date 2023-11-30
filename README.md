@@ -41,7 +41,7 @@ Este projeto é contém  6 cards,onde cada card possui uma galáxia e um pouco s
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/seo7Gw1MUlBrWDcZoYoHxm/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=15%3A61&mode=dev). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/seo7Gw1MUlBrWDcZoYoHxm/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=15%3A61&mode=dev](https://www.figma.com/community/file/1256354736253234634)). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 😉 Feito com ♥ by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
