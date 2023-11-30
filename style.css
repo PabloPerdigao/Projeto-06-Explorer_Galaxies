@@ -1,19 +1,64 @@
+/* Reset CSS */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+
+:root {
+  font-family: 'Mulish', sans-serif;
+}
+/* Configuração do body */
 body {
   background: #121214;
+  padding: 72px 104px;
+
+  /* Configuração de centralização do conteúdo do body */
+  display: grid;
+  justify-content: center;
 }
 
+header h1 {
+  color: #02799D;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: normal;
+}
+
+header p{
+  color: #E1E1E6;
+ font-size: 32px;
+ font-weight: 600;
+ line-height: normal;
+}
+
+/* Configuração da main */
+main {
+
+  margin-top: 62px;
+  display: grid;
+  grid-template-columns: repeat(3, 370px);
+
+
+  /* Simplificando/substituindo propriedas row-gap: 48px; e column-gap: 60px; */
+  gap:  48px 60px; 
+
+
+}
+
+/* Configuração de estilização do card */
 .card {
   border-radius: 8px;
   border: 2px solid  #323238;
   background: #202024;
+
+  /* Ajuste da imagem dentro dos cards */
+  overflow: hidden;
+  
 }
 
+/* Configuração do conteúdo do card ( estilização do Título ) */
 .card h2 {
   color: #E1E1E6;
   font-size: 36px;
@@ -22,6 +67,7 @@ body {
   padding: 24px 32px 0px;
 }
 
+/* Configuração do conteúdo do card ( estilização do paragrafo ) */
 .card p {
   color: #C4C4CC;
   font-size: 18px;
