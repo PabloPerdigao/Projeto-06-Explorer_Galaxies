@@ -16,7 +16,6 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
 <br>
 
 <p align="center">
@@ -27,9 +26,12 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias & ferramentsa:
 
-- HTML e CSS
-- Git e Github
-- Figma
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 💻 Projeto
 
@@ -38,6 +40,8 @@ O Projeto 06 - Galaxies, é uma página na web onde podemos encontrar as maiores
 É um projeto simples e foi desenvolvido com o intuito de aplicar o conhecimento adquirido na aulas em relação as funcionalidades,usabilidades e alinhamentos da propriedade Grid. 
 
 Este projeto é contém  6 cards,onde cada card possui uma galáxia e um pouco sobre elas.
+
+[➡️😉Acesse o projeto finalizado online](https://pabloperdigao.github.io/Projeto-06-Explorer_Galaxies/)
 
 ## 🔖 Layout
 
